@@ -1,0 +1,948 @@
+backtracking due to negative reward: -32.251265
+backtracking due to negative reward: -41.736932
+backtracking due to negative reward: -0.000001
+backtracking due to negative reward: -62.605396
+replayed best with reward 9842.611055
+replayed best with reward 5066.294243
+replayed best with reward 5002.740280
+replayed best with reward 3639.650077
+replayed best with reward 3642.495772
+replayed best with reward 4809.232695
+replayed best with reward 3646.290039
+replayed best with reward 5067.242808
+replayed best with reward 9821.833333
+backtracking due to negative reward: -32.251264
+backtracking due to negative reward: -36.045532
+backtracking due to negative reward: -1.897132
+backtracking due to negative reward: -42.685496
+backtracking due to negative reward: -18.022764
+backtracking due to negative reward: -35.096964
+backtracking due to negative reward: -96.753796
+backtracking due to negative reward: -53.119729
+replayed best with reward 5020.763055
+replayed best with reward 5016.968788
+replayed best with reward 4984.717520
+replayed best with reward 9719.499947
+replayed best with reward 3634.907244
+replayed best with reward 5124.156812
+replayed best with reward 3635.855800
+replayed best with reward 3635.855804
+backtracking due to negative reward: -18.022764
+replayed best with reward 9707.666636
+backtracking due to negative reward: -61.656830
+backtracking due to negative reward: -14.228498
+backtracking due to negative reward: -36.994097
+backtracking due to negative reward: -58.811131
+replayed best with reward 5015.071653
+replayed best with reward 5082.419877
+backtracking due to negative reward: -12.331366
+backtracking due to negative reward: -48.376897
+backtracking due to negative reward: -11.382798
+replayed best with reward 5062.499993
+replayed best with reward 4918.317857
+backtracking due to negative reward: -33.199831
+backtracking due to negative reward: -35.096963
+backtracking due to negative reward: -23.714164
+backtracking due to negative reward: -9.485665
+backtracking due to negative reward: -22.765599
+backtracking due to negative reward: -13.279932
+backtracking due to negative reward: -49.325464
+replayed best with reward 4163.258833
+backtracking due to negative reward: -36.994097
+backtracking due to negative reward: -16.125631
+backtracking due to negative reward: -33.199832
+backtracking due to negative reward: -4.742834
+backtracking due to negative reward: -26.559864
+replayed best with reward 3638.701498
+replayed best with reward 3635.855811
+backtracking due to negative reward: -27.508433
+replayed best with reward 3638.701511
+backtracking due to negative reward: -41.736930
+backtracking due to negative reward: -36.994098
+backtracking due to negative reward: -5.691400
+replayed best with reward 9696.555540
+replayed best with reward 3646.290038
+replayed best with reward 3744.940967
+backtracking due to negative reward: -18.022766
+backtracking due to negative reward: -56.913996
+backtracking due to negative reward: -13.279932
+backtracking due to negative reward: -30.354132
+backtracking due to negative reward: -2.845698
+replayed best with reward 3642.495772
+replayed best with reward 5006.534556
+replayed best with reward 9843.111085
+replayed best with reward 4995.151753
+replayed best with reward 5061.551411
+backtracking due to negative reward: -10.434232
+backtracking due to negative reward: -61.656830
+backtracking due to negative reward: -3.794266
+backtracking due to negative reward: -45.531196
+replayed best with reward 9879.499938
+backtracking due to negative reward: -22.765598
+backtracking due to negative reward: -65.451097
+backtracking due to negative reward: -97.702361
+replayed best with reward 9873.611048
+backtracking due to negative reward: -14.228500
+replayed best with reward 9874.722197
+replayed best with reward 9874.777759
+replayed best with reward 9871.777756
+backtracking due to negative reward: -2.845699
+backtracking due to negative reward: -0.948566
+replayed best with reward 9876.333300
+replayed best with reward 9879.722155
+replayed best with reward 4997.997451
+replayed best with reward 9759.666619
+replayed best with reward 9759.833300
+replayed best with reward 9802.055514
+replayed best with reward 4256.218381
+replayed best with reward 5069.139959
+backtracking due to negative reward: -21.817032
+replayed best with reward 9728.055524
+replayed best with reward 9728.111096
+replayed best with reward 9845.833303
+replayed best with reward 5067.242824
+backtracking due to negative reward: -0.948566
+replayed best with reward 9873.388858
+replayed best with reward 9873.499988
+replayed best with reward 9873.388839
+replayed best with reward 9880.944403
+replayed best with reward 9871.722193
+replayed best with reward 9879.555536
+backtracking due to negative reward: -2.845700
+backtracking due to negative reward: -44.582630
+backtracking due to negative reward: -19.919898
+backtracking due to negative reward: -29.405566
+backtracking due to negative reward: -50.274030
+replayed best with reward 9871.944403
+backtracking due to negative reward: -17.074199
+backtracking due to negative reward: -22.765598
+backtracking due to negative reward: -26.559864
+backtracking due to negative reward: -46.479763
+backtracking due to negative reward: -43.634065
+backtracking due to negative reward: -78.731029
+replayed best with reward 9785.111070
+replayed best with reward 9808.277755
+replayed best with reward 9789.999955
+replayed best with reward 9867.222156
+backtracking due to negative reward: -0.948568
+backtracking due to negative reward: -76.833895
+replayed best with reward 5011.277375
+replayed best with reward 3642.495780
+replayed best with reward 9873.444397
+replayed best with reward 9871.833319
+replayed best with reward 9873.555508
+replayed best with reward 9871.444413
+replayed best with reward 9817.555529
+replayed best with reward 5169.688013
+replayed best with reward 9874.833319
+replayed best with reward 9871.833296
+replayed best with reward 9873.444383
+replayed best with reward 9876.333300
+replayed best with reward 644.076728
+replayed best with reward 9876.499940
+replayed best with reward 9873.388838
+backtracking due to negative reward: -56.913996
+backtracking due to negative reward: -93.908094
+backtracking due to negative reward: -21.817034
+backtracking due to negative reward: -51.222599
+backtracking due to negative reward: -57.862563
+backtracking due to negative reward: -32.251265
+backtracking due to negative reward: -0.948568
+backtracking due to negative reward: -24.662732
+replayed best with reward 3655.775698
+replayed best with reward 3642.495772
+backtracking due to negative reward: -86.319562
+backtracking due to negative reward: -30.354131
+backtracking due to negative reward: -38.891230
+backtracking due to negative reward: -71.142496
+replayed best with reward 9880.944403
+backtracking due to negative reward: -48.376898
+backtracking due to negative reward: -53.119730
+replayed best with reward 9871.722195
+backtracking due to negative reward: -105.290893
+backtracking due to negative reward: -18.971332
+replayed best with reward 9871.333283
+backtracking due to negative reward: -9.485666
+replayed best with reward 9740.444401
+replayed best with reward 3743.992404
+backtracking due to negative reward: -23.714166
+replayed best with reward 3635.855802
+backtracking due to negative reward: -27.508431
+backtracking due to negative reward: -86.319561
+replayed best with reward 9874.722197
+replayed best with reward 9876.499939
+backtracking due to negative reward: -20.868465
+backtracking due to negative reward: -23.714165
+replayed best with reward 3635.855803
+replayed best with reward 7695.720882
+replayed best with reward 9879.833279
+replayed best with reward 9873.499961
+replayed best with reward 3745.889532
+replayed best with reward 5068.191382
+replayed best with reward 9664.944380
+replayed best with reward 9728.055508
+replayed best with reward 9848.222171
+replayed best with reward 9686.055494
+replayed best with reward 8109.295924
+backtracking due to negative reward: -38.891230
+backtracking due to negative reward: -33.199831
+backtracking due to negative reward: -44.582630
+backtracking due to negative reward: -160.307759
+replayed best with reward 3639.650076
+replayed best with reward 9876.499938
+replayed best with reward 9848.333305
+replayed best with reward 7900.611269
+replayed best with reward 8464.059831
+replayed best with reward 9876.277756
+replayed best with reward 9883.888867
+replayed best with reward 5041.631515
+backtracking due to negative reward: -71.142497
+backtracking due to negative reward: -17.074198
+backtracking due to negative reward: -75.885329
+replayed best with reward 9883.888868
+replayed best with reward 9873.888844
+replayed best with reward 9871.444420
+replayed best with reward 9876.499962
+replayed best with reward 9873.444382
+replayed best with reward 9871.444386
+replayed best with reward 9880.111049
+replayed best with reward 9879.722170
+replayed best with reward 9879.833276
+replayed best with reward 9873.444381
+replayed best with reward 9873.388868
+replayed best with reward 5109.928322
+replayed best with reward 9871.333305
+replayed best with reward 9873.833318
+backtracking due to negative reward: -38.891232
+backtracking due to negative reward: -14.228498
+replayed best with reward 9871.222202
+replayed best with reward 9873.444379
+replayed best with reward 9871.666653
+replayed best with reward 9871.388886
+replayed best with reward 9873.444402
+replayed best with reward 9873.111090
+replayed best with reward 5069.139941
+replayed best with reward 9879.999943
+backtracking due to negative reward: -73.988196
+backtracking due to negative reward: -6.639967
+backtracking due to negative reward: -112.879426
+backtracking due to negative reward: -21.817034
+replayed best with reward 3633.958672
+replayed best with reward 9880.111046
+replayed best with reward 9883.777764
+backtracking due to negative reward: -34.148400
+replayed best with reward 5053.014316
+replayed best with reward 646.922423
+replayed best with reward 9871.611074
+replayed best with reward 9879.999942
+backtracking due to negative reward: -36.045531
+backtracking due to negative reward: -69.245362
+backtracking due to negative reward: -42.685497
+backtracking due to negative reward: -22.765598
+replayed best with reward 9828.222169
+replayed best with reward 9827.166622
+replayed best with reward 7388.385310
+replayed best with reward 5060.602853
+replayed best with reward 9880.055500
+replayed best with reward 9871.833279
+replayed best with reward 9871.888860
+replayed best with reward 9879.944377
+replayed best with reward 9873.555513
+replayed best with reward 9871.944397
+replayed best with reward 9873.444398
+replayed best with reward 7695.720882
+replayed best with reward 9880.055517
+replayed best with reward 9879.499935
+replayed best with reward 9874.722193
+replayed best with reward 9871.722195
+replayed best with reward 9879.833278
+replayed best with reward 9883.166652
+replayed best with reward 9879.611066
+replayed best with reward 9868.777762
+replayed best with reward 5166.842306
+replayed best with reward 4815.872662
+replayed best with reward 9871.999985
+replayed best with reward 9871.277720
+replayed best with reward 9873.444385
+replayed best with reward 9871.611050
+backtracking due to negative reward: -36.045530
+backtracking due to negative reward: -59.759696
+backtracking due to negative reward: -70.193928
+replayed best with reward 4938.237756
+replayed best with reward 9870.777715
+replayed best with reward 9871.666650
+replayed best with reward 9871.388843
+replayed best with reward 9876.499941
+replayed best with reward 9873.111086
+replayed best with reward 9874.722218
+replayed best with reward 8987.668610
+backtracking due to negative reward: -6.639966
+replayed best with reward 3642.495770
+replayed best with reward 9870.277742
+replayed best with reward 9880.055523
+replayed best with reward 9873.444421
+replayed best with reward 9876.333299
+replayed best with reward 3635.855805
+replayed best with reward 9873.444397
+replayed best with reward 9876.388859
+backtracking due to negative reward: -45.531197
+replayed best with reward 8527.613798
+replayed best with reward 9752.833278
+replayed best with reward 9695.777762
+replayed best with reward 3639.650076
+replayed best with reward 9871.777735
+replayed best with reward 5163.996618
+replayed best with reward 5056.808576
+replayed best with reward 9614.611049
+replayed best with reward 9547.222159
+replayed best with reward 9817.166636
+replayed best with reward 9814.222191
+backtracking due to negative reward: -21.817031
+backtracking due to negative reward: -63.553963
+replayed best with reward 9686.888904
+replayed best with reward 9715.444379
+replayed best with reward 4255.269798
+replayed best with reward 9795.277738
+replayed best with reward 9824.944386
+replayed best with reward 3632.061539
+replayed best with reward 9792.555529
+replayed best with reward 5013.174523
+replayed best with reward 9876.055531
+replayed best with reward 8981.977209
+replayed best with reward 9873.444391
+replayed best with reward 9874.611054
+replayed best with reward 9873.888840
+replayed best with reward 9871.777736
+replayed best with reward 9879.777749
+replayed best with reward 8277.192207
+backtracking due to negative reward: -24.662733
+backtracking due to negative reward: -0.000000
+backtracking due to negative reward: -4.742833
+backtracking due to negative reward: -15.177065
+backtracking due to negative reward: -67.348230
+backtracking due to negative reward: -38.891232
+backtracking due to negative reward: -81.576729
+backtracking due to negative reward: -46.479763
+replayed best with reward 9876.499943
+replayed best with reward 9876.555486
+replayed best with reward 9871.055534
+replayed best with reward 9879.499990
+replayed best with reward 7893.022733
+replayed best with reward 9873.888861
+replayed best with reward 9871.888842
+replayed best with reward 9873.444419
+replayed best with reward 9871.277721
+replayed best with reward 7695.720876
+replayed best with reward 9871.722192
+replayed best with reward 9873.833323
+replayed best with reward 9871.388886
+replayed best with reward 9879.777733
+backtracking due to negative reward: -8.537100
+backtracking due to negative reward: -18.971332
+replayed best with reward 3649.135735
+replayed best with reward 5163.996615
+replayed best with reward 3631.112973
+replayed best with reward 9879.833277
+replayed best with reward 9871.999986
+replayed best with reward 9873.499983
+replayed best with reward 9876.555483
+replayed best with reward 9871.277757
+backtracking due to negative reward: -20.868466
+backtracking due to negative reward: -22.765598
+backtracking due to negative reward: -11.382798
+backtracking due to negative reward: -0.948568
+replayed best with reward 9879.722209
+replayed best with reward 9871.444388
+replayed best with reward 9871.277757
+replayed best with reward 7695.720873
+replayed best with reward 9874.722190
+replayed best with reward 9871.722176
+replayed best with reward 9873.388837
+replayed best with reward 8475.442633
+replayed best with reward 9871.666652
+backtracking due to negative reward: -2.845700
+replayed best with reward 8170.004201
+replayed best with reward 4248.629831
+backtracking due to negative reward: -29.405564
+replayed best with reward 9705.999967
+replayed best with reward 9808.499985
+replayed best with reward 9704.666644
+replayed best with reward 9825.222207
+replayed best with reward 9713.999971
+replayed best with reward 9760.888867
+replayed best with reward 5071.037089
+replayed best with reward 9868.833330
+replayed best with reward 7695.720877
+replayed best with reward 9871.888861
+replayed best with reward 9871.888881
+replayed best with reward 9871.888861
+replayed best with reward 9879.499937
+replayed best with reward 9873.722216
+replayed best with reward 9873.444419
+replayed best with reward 9880.944434
+replayed best with reward 9876.333300
+replayed best with reward 9879.722212
+replayed best with reward 9871.777755
+replayed best with reward 9871.222175
+replayed best with reward 9879.722170
+backtracking due to negative reward: -76.833895
+backtracking due to negative reward: -13.279932
+backtracking due to negative reward: -58.811130
+replayed best with reward 9871.722176
+replayed best with reward 9870.666636
+replayed best with reward 9873.444381
+backtracking due to negative reward: -1.897132
+replayed best with reward 3639.650074
+replayed best with reward 9871.722173
+backtracking due to negative reward: -28.456997
+backtracking due to negative reward: -23.714165
+backtracking due to negative reward: -34.148397
+backtracking due to negative reward: -36.045531
+replayed best with reward 3638.701504
+replayed best with reward 9880.055500
+replayed best with reward 9871.333308
+replayed best with reward 3635.855805
+replayed best with reward 6672.217501
+replayed best with reward 1028.246202
+replayed best with reward 9871.111094
+backtracking due to negative reward: -51.222597
+backtracking due to negative reward: -166.947723
+replayed best with reward 9871.722195
+replayed best with reward 9871.333304
+replayed best with reward 9879.833279
+replayed best with reward 9874.722190
+replayed best with reward 9872.777762
+replayed best with reward 9873.055543
+replayed best with reward 9874.611068
+replayed best with reward 7665.366743
+replayed best with reward 9873.944387
+replayed best with reward 9874.777740
+replayed best with reward 7695.720882
+replayed best with reward 9876.555487
+replayed best with reward 8261.066575
+replayed best with reward 9879.499940
+replayed best with reward 9877.388862
+replayed best with reward 9879.499936
+replayed best with reward 9873.499986
+replayed best with reward 9873.055506
+replayed best with reward 9871.333300
+replayed best with reward 9873.444379
+replayed best with reward 9871.833275
+replayed best with reward 9873.444385
+replayed best with reward 9871.666644
+replayed best with reward 8981.028639
+replayed best with reward 9879.722170
+replayed best with reward 3631.112973
+backtracking due to negative reward: -3.794266
+replayed best with reward 9871.722194
+replayed best with reward 9871.611049
+replayed best with reward 9881.388845
+replayed best with reward 9873.999945
+replayed best with reward 9874.722158
+replayed best with reward 9879.666626
+replayed best with reward 9879.666616
+backtracking due to negative reward: -69.245363
+replayed best with reward 9789.222181
+replayed best with reward 4252.424103
+replayed best with reward 9876.499948
+replayed best with reward 9879.555494
+replayed best with reward 9873.388865
+replayed best with reward 9883.166610
+replayed best with reward 9873.444404
+backtracking due to negative reward: -3.794266
+backtracking due to negative reward: -22.765599
+replayed best with reward 9873.499967
+replayed best with reward 9871.333300
+replayed best with reward 9877.111085
+replayed best with reward 9873.499988
+replayed best with reward 9879.499941
+replayed best with reward 9873.333299
+replayed best with reward 9871.888861
+replayed best with reward 9883.777740
+replayed best with reward 5068.191384
+replayed best with reward 8291.420707
+replayed best with reward 9873.444400
+replayed best with reward 9876.333300
+replayed best with reward 9873.333294
+replayed best with reward 5059.654276
+replayed best with reward 9871.888879
+replayed best with reward 9874.722198
+replayed best with reward 9871.888861
+replayed best with reward 9879.777713
+replayed best with reward 8526.665233
+backtracking due to negative reward: -76.833896
+backtracking due to negative reward: -224.810287
+replayed best with reward 9871.833278
+replayed best with reward 9872.999937
+replayed best with reward 9879.833277
+replayed best with reward 9873.888843
+replayed best with reward 9873.444401
+replayed best with reward 9879.499937
+replayed best with reward 9880.111066
+backtracking due to negative reward: -90.113829
+backtracking due to negative reward: -20.868465
+backtracking due to negative reward: -93.908095
+replayed best with reward 7959.422388
+replayed best with reward 9876.333319
+replayed best with reward 9879.944376
+replayed best with reward 9871.888881
+replayed best with reward 9879.611082
+replayed best with reward 8329.363385
+replayed best with reward 9876.333300
+replayed best with reward 9871.944403
+replayed best with reward 9879.777711
+replayed best with reward 9873.388864
+replayed best with reward 9871.722174
+replayed best with reward 9874.722190
+replayed best with reward 7695.720878
+replayed best with reward 9879.944399
+replayed best with reward 9873.111065
+replayed best with reward 9873.388862
+replayed best with reward 9880.111067
+replayed best with reward 9873.888864
+replayed best with reward 9874.722160
+replayed best with reward 8852.972148
+replayed best with reward 9873.499969
+replayed best with reward 9873.999970
+replayed best with reward 9873.444379
+replayed best with reward 9876.499943
+replayed best with reward 9883.888867
+replayed best with reward 9871.444418
+replayed best with reward 9873.777738
+replayed best with reward 9873.444380
+replayed best with reward 9873.888861
+replayed best with reward 8018.233514
+replayed best with reward 9868.833284
+backtracking due to negative reward: -28.456998
+backtracking due to negative reward: -129.005058
+replayed best with reward 5071.037082
+replayed best with reward 9880.944407
+replayed best with reward 9879.833277
+replayed best with reward 9883.499954
+replayed best with reward 9873.499969
+replayed best with reward 9879.722151
+replayed best with reward 8977.234371
+replayed best with reward 9871.944404
+replayed best with reward 9871.388865
+replayed best with reward 9875.611067
+replayed best with reward 9877.166616
+replayed best with reward 9883.777746
+replayed best with reward 9873.555509
+replayed best with reward 9873.499990
+replayed best with reward 9880.111066
+replayed best with reward 9871.333300
+replayed best with reward 3642.495771
+replayed best with reward 9873.555511
+replayed best with reward 9873.388840
+replayed best with reward 9871.888861
+replayed best with reward 9879.555530
+replayed best with reward 9871.277741
+replayed best with reward 9880.944392
+replayed best with reward 9874.777758
+replayed best with reward 9883.444388
+replayed best with reward 9880.111046
+replayed best with reward 9873.444378
+replayed best with reward 9873.833322
+replayed best with reward 8291.420707
+replayed best with reward 3635.855805
+backtracking due to negative reward: -81.576728
+backtracking due to negative reward: -1.897134
+replayed best with reward 3646.290034
+replayed best with reward 9879.499940
+replayed best with reward 9871.555485
+replayed best with reward 9875.999982
+replayed best with reward 9871.388861
+replayed best with reward 9873.499982
+replayed best with reward 9873.944384
+replayed best with reward 9871.833298
+replayed best with reward 9873.444394
+replayed best with reward 9871.888862
+replayed best with reward 9873.444424
+replayed best with reward 9873.111083
+replayed best with reward 5013.174518
+replayed best with reward 9873.444420
+replayed best with reward 9876.499962
+replayed best with reward 9871.722193
+replayed best with reward 9871.388871
+replayed best with reward 9879.777707
+replayed best with reward 7695.720881
+replayed best with reward 9876.444380
+replayed best with reward 9871.833277
+replayed best with reward 9873.499965
+replayed best with reward 9871.833298
+replayed best with reward 9879.777707
+replayed best with reward 9873.499986
+replayed best with reward 9873.444401
+replayed best with reward 9880.111050
+replayed best with reward 9873.888844
+replayed best with reward 9880.055522
+replayed best with reward 9871.388864
+replayed best with reward 7966.062362
+replayed best with reward 9873.444423
+replayed best with reward 9871.722176
+replayed best with reward 9880.055522
+replayed best with reward 9876.499950
+replayed best with reward 9873.444385
+replayed best with reward 9874.777760
+replayed best with reward 5069.139947
+replayed best with reward 9876.555485
+replayed best with reward 9879.777708
+replayed best with reward 9873.444419
+replayed best with reward 9873.444377
+replayed best with reward 9871.277731
+replayed best with reward 9876.499942
+replayed best with reward 9877.111089
+replayed best with reward 9874.666631
+replayed best with reward 9880.055540
+replayed best with reward 9871.777718
+replayed best with reward 9876.555485
+replayed best with reward 9871.888860
+replayed best with reward 9873.555503
+replayed best with reward 9873.499987
+replayed best with reward 9873.444380
+replayed best with reward 9876.499940
+replayed best with reward 9874.611051
+replayed best with reward 9876.499942
+replayed best with reward 9873.111089
+backtracking due to negative reward: -9.485665
+replayed best with reward 9873.444382
+replayed best with reward 9873.111050
+replayed best with reward 9873.444380
+replayed best with reward 9871.888841
+replayed best with reward 9873.888861
+replayed best with reward 9874.777760
+replayed best with reward 9873.444380
+replayed best with reward 9876.333299
+replayed best with reward 8527.613803
+replayed best with reward 3632.061535
+replayed best with reward 5165.893742
+replayed best with reward 8719.224243
+replayed best with reward 9871.166635
+replayed best with reward 9871.277739
+replayed best with reward 9876.555486
+replayed best with reward 9883.777770
+replayed best with reward 9871.833276
+replayed best with reward 9883.888867
+replayed best with reward 9879.722170
+replayed best with reward 9869.333315
+replayed best with reward 9871.722174
+replayed best with reward 9874.666614
+replayed best with reward 9871.277740
+replayed best with reward 9876.499944
+replayed best with reward 9879.722153
+replayed best with reward 5042.580075
+replayed best with reward 9871.722193
+replayed best with reward 8979.131509
+replayed best with reward 8993.360008
+replayed best with reward 9874.722198
+replayed best with reward 9874.666633
+replayed best with reward 9877.166633
+replayed best with reward 9871.833281
+replayed best with reward 9873.555512
+replayed best with reward 9873.444377
+replayed best with reward 5071.037080
+replayed best with reward 9874.666615
+replayed best with reward 9874.722197
+replayed best with reward 9871.833277
+replayed best with reward 9875.611091
+replayed best with reward 9877.166633
+replayed best with reward 9871.777758
+replayed best with reward 9876.388863
+replayed best with reward 9871.888873
+replayed best with reward 9879.944381
+replayed best with reward 9871.722194
+replayed best with reward 9876.333321
+replayed best with reward 3642.495771
+replayed best with reward 9879.722151
+replayed best with reward 8986.720044
+replayed best with reward 9873.111071
+replayed best with reward 3639.650071
+replayed best with reward 9871.388858
+replayed best with reward 9873.444377
+replayed best with reward 9871.555530
+replayed best with reward 9876.333316
+replayed best with reward 9873.888845
+replayed best with reward 9879.722151
+replayed best with reward 8979.131506
+replayed best with reward 9877.166633
+replayed best with reward 9876.499965
+replayed best with reward 9871.777739
+replayed best with reward 9871.888861
+replayed best with reward 9871.444409
+replayed best with reward 9873.444382
+replayed best with reward 3646.290038
+replayed best with reward 9871.833317
+replayed best with reward 9873.333301
+replayed best with reward 9879.499935
+replayed best with reward 9880.055519
+replayed best with reward 7695.720882
+replayed best with reward 9879.722171
+replayed best with reward 5022.660181
+replayed best with reward 9880.055541
+replayed best with reward 9874.777710
+replayed best with reward 9871.222196
+replayed best with reward 9871.888861
+replayed best with reward 9876.444385
+replayed best with reward 9873.388838
+replayed best with reward 9873.444394
+replayed best with reward 9879.666631
+replayed best with reward 9880.055522
+replayed best with reward 8979.131506
+replayed best with reward 9876.499942
+replayed best with reward 9873.888844
+replayed best with reward 9871.222175
+replayed best with reward 9880.944433
+replayed best with reward 9879.944378
+replayed best with reward 5099.494074
+replayed best with reward 9880.055504
+replayed best with reward 9871.888862
+replayed best with reward 9873.444398
+replayed best with reward 9879.944380
+replayed best with reward 9871.388864
+replayed best with reward 9879.944376
+replayed best with reward 9879.999940
+replayed best with reward 9873.333294
+replayed best with reward 3639.650071
+replayed best with reward 9874.777755
+replayed best with reward 9874.833320
+replayed best with reward 9876.499937
+replayed best with reward 9873.777761
+replayed best with reward 9873.777759
+replayed best with reward 9871.833294
+replayed best with reward 9871.444419
+replayed best with reward 9871.944400
+replayed best with reward 9879.777713
+replayed best with reward 9873.333295
+replayed best with reward 9879.777756
+replayed best with reward 9879.833279
+replayed best with reward 9876.499943
+replayed best with reward 9876.499940
+replayed best with reward 9873.555503
+replayed best with reward 9873.777742
+replayed best with reward 9876.444385
+replayed best with reward 9871.888879
+replayed best with reward 9879.722209
+replayed best with reward 9874.777740
+replayed best with reward 9868.833281
+replayed best with reward 9873.555511
+replayed best with reward 8123.524421
+replayed best with reward 9871.777736
+replayed best with reward 9880.055523
+replayed best with reward 9872.055539
+replayed best with reward 9873.388885
+replayed best with reward 9873.388881
+replayed best with reward 9883.722182
+replayed best with reward 9873.777760
+replayed best with reward 8721.121379
+replayed best with reward 9871.499987
+replayed best with reward 9877.166616
+replayed best with reward 9879.833277
+replayed best with reward 8018.233512
+replayed best with reward 9881.166632
+replayed best with reward 9874.333314
+replayed best with reward 9871.888881
+replayed best with reward 9871.888861
+replayed best with reward 9873.444382
+replayed best with reward 9883.888871
+replayed best with reward 9879.833276
+replayed best with reward 9873.888865
+replayed best with reward 9880.888865
+replayed best with reward 3631.112970
+replayed best with reward 9883.888867
+replayed best with reward 9879.722153
+replayed best with reward 9883.777746
+replayed best with reward 9879.611049
+replayed best with reward 9879.499940
+replayed best with reward 9873.444379
+replayed best with reward 9874.777739
+replayed best with reward 9873.944384
+replayed best with reward 9880.055540
+replayed best with reward 9873.555507
+replayed best with reward 9876.499945
+replayed best with reward 9873.444381
+replayed best with reward 3639.650071
+replayed best with reward 9876.333299
+replayed best with reward 9876.555514
+replayed best with reward 9873.555507
+replayed best with reward 7054.489842
+replayed best with reward 9871.166640
+replayed best with reward 9879.833278
+replayed best with reward 9879.499940
+replayed best with reward 9881.388885
+replayed best with reward 9874.777739
+replayed best with reward 9873.499964
+replayed best with reward 9876.499961
+replayed best with reward 9879.666652
+replayed best with reward 9871.666632
+replayed best with reward 9883.888870
+replayed best with reward 9876.333296
+replayed best with reward 9874.777735
+replayed best with reward 9871.722212
+replayed best with reward 9879.722152
+replayed best with reward 9876.333299
+replayed best with reward 9871.888879
+replayed best with reward 8980.080078
+replayed best with reward 9879.777735
+replayed best with reward 9874.777741
+replayed best with reward 9880.999994
+replayed best with reward 9873.555507
+replayed best with reward 9871.277763
+replayed best with reward 9873.999971
+replayed best with reward 9874.888838
+replayed best with reward 9871.833303
+replayed best with reward 3632.061536
+replayed best with reward 9873.388862
+replayed best with reward 3631.112970
+replayed best with reward 9879.833275
+replayed best with reward 9876.499962
+replayed best with reward 9876.499946
+replayed best with reward 9873.999949
+replayed best with reward 9871.777735
+replayed best with reward 9876.499938
+replayed best with reward 9877.166630
+replayed best with reward 9879.833314
+replayed best with reward 9871.722194
+replayed best with reward 9873.888865
+replayed best with reward 9871.888884
+replayed best with reward 9872.999943
+replayed best with reward 9876.444385
+replayed best with reward 9873.444394
+replayed best with reward 9871.444378
+replayed best with reward 3632.061536
+replayed best with reward 9871.777736
+replayed best with reward 9876.499942
+replayed best with reward 8986.720040
+replayed best with reward 9873.055506
+replayed best with reward 9876.333318
+replayed best with reward 9879.555543
+replayed best with reward 9871.833298
+replayed best with reward 9874.722215
+replayed best with reward 9876.499941
+replayed best with reward 3635.855805
+replayed best with reward 9873.555505
+replayed best with reward 9880.111067
+replayed best with reward 9874.722195
+replayed best with reward 9874.722158
+replayed best with reward 9872.999941
+replayed best with reward 3632.061535
+replayed best with reward 9873.444394
+replayed best with reward 5009.380250
+replayed best with reward 9856.388828
+replayed best with reward 9715.944384
+replayed best with reward 9718.111074
+replayed best with reward 3633.958680
+replayed best with reward 9673.944418
+replayed best with reward 9710.777717
+replayed best with reward 4245.784139
+replayed best with reward 9873.888864
+replayed best with reward 9871.722195
+replayed best with reward 9871.444402
+replayed best with reward 9879.722153
+replayed best with reward 9873.111042
+replayed best with reward 9879.777735
+replayed best with reward 9871.722175
+replayed best with reward 9871.333322
+replayed best with reward 9875.611091
+replayed best with reward 9876.444381
+replayed best with reward 9873.444419
+replayed best with reward 9873.833283
+replayed best with reward 9879.833279
+replayed best with reward 9873.444381
+replayed best with reward 9873.388839
+replayed best with reward 9871.777715
+replayed best with reward 9873.944388
+replayed best with reward 3635.855805
+replayed best with reward 9876.277759
+replayed best with reward 9876.333298
+replayed best with reward 9880.055518
+replayed best with reward 9873.777757
+replayed best with reward 9871.833320
+replayed best with reward 7695.720882
+replayed best with reward 9879.777738
+replayed best with reward 9871.722165
+replayed best with reward 8701.201488
+replayed best with reward 9871.722158
+replayed best with reward 9873.888859
+replayed best with reward 8979.131509
+replayed best with reward 9879.722194
+replayed best with reward 9873.444378
+replayed best with reward 9873.444382
+replayed best with reward 9873.499981
+replayed best with reward 9876.333297
+replayed best with reward 9873.444384
+replayed best with reward 9883.833307
+replayed best with reward 9871.444386
+replayed best with reward 9879.722188
+replayed best with reward 9871.833275
+replayed best with reward 9879.666608
+replayed best with reward 9876.499959
+replayed best with reward 9871.277758
+replayed best with reward 8754.321219
+replayed best with reward 9871.833277
+replayed best with reward 9873.388839
+replayed best with reward 9876.499942
+replayed best with reward 9873.444381
+replayed best with reward 9873.444402
+replayed best with reward 9876.499962
+replayed best with reward 9871.722213
+replayed best with reward 9874.777759
+replayed best with reward 9880.055499
+replayed best with reward 9871.166619
+replayed best with reward 9871.777739
+replayed best with reward 9876.055526
+replayed best with reward 9876.444381
+replayed best with reward 9876.499963
+replayed best with reward 9871.444424
+replayed best with reward 7903.456959
+replayed best with reward 9873.444377
+replayed best with reward 9876.055528
+replayed best with reward 9871.777737
+replayed best with reward 5179.173674
+replayed best with reward 9883.888868
+replayed best with reward 3635.855805
+replayed best with reward 9873.555510
+replayed best with reward 8976.285805
+replayed best with reward 4940.134889
+replayed best with reward 9871.333306
+replayed best with reward 9879.611075
+replayed best with reward 9879.722214
+replayed best with reward 9871.888860
+replayed best with reward 4933.494922
+replayed best with reward 3658.621398
+replayed best with reward 9873.499988
+replayed best with reward 9871.444410
+replayed best with reward 9873.444398
+replayed best with reward 9873.444377
+replayed best with reward 9871.333298
+replayed best with reward 9871.777736
+replayed best with reward 9873.444401
+replayed best with reward 9879.777756
+replayed best with reward 9871.833279
+replayed best with reward 9873.499986
+replayed best with reward 9879.722170
+replayed best with reward 9873.499981
+replayed best with reward 9873.111089
+replayed best with reward 9876.499962
+replayed best with reward 9883.777747
+replayed best with reward 9871.777735
+replayed best with reward 9871.611048
+replayed best with reward 9880.055521
+replayed best with reward 9873.444423
+replayed best with reward 9871.277755
+replayed best with reward 9871.444386
+replayed best with reward 9874.722218
+replayed best with reward 9873.777762
+replayed best with reward 9876.277757
+replayed best with reward 9879.611050
+replayed best with reward 9876.333294
+replayed best with reward 9879.722212
+replayed best with reward 9876.499961
+replayed best with reward 9879.944380
+replayed best with reward 9880.055522
+replayed best with reward 9873.444383
+replayed best with reward 9872.777714
+replayed best with reward 9876.499942
+replayed best with reward 9879.777711
+replayed best with reward 9883.888867
+replayed best with reward 9876.555491
+exception None

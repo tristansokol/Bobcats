@@ -1,0 +1,1598 @@
+0.007100% done, reward: 645.973857
+0.086400% done, reward: 5234.903565
+0.270600% done, reward: 6686.843098
+0.391400% done, reward: 7448.021207
+0.458900% done, reward: 7928.439183
+0.526600% done, reward: 7928.394741
+0.600100% done, reward: 7927.520664
+0.683100% done, reward: 7839.381544
+0.713300% done, reward: 7220.963223
+1.163300% done, reward: 6247.807671
+1.327400% done, reward: 6062.481234
+1.450600% done, reward: 5805.807712
+1.517200% done, reward: 5885.009118
+1.542700% done, reward: 5555.080785
+1.613000% done, reward: 5612.497090
+1.744100% done, reward: 5372.253182
+1.803000% done, reward: 5278.486738
+1.896800% done, reward: 5178.054544
+1.933700% done, reward: 4934.933732
+2.065100% done, reward: 5011.779077
+2.184800% done, reward: 5399.400129
+2.305100% done, reward: 5542.807764
+2.425400% done, reward: 5590.602371
+2.482000% done, reward: 5619.557214
+2.548600% done, reward: 5636.293612
+2.649100% done, reward: 5645.661529
+3.099100% done, reward: 5452.825687
+3.155400% done, reward: 5398.685285
+3.275600% done, reward: 5430.636602
+3.386600% done, reward: 5456.487338
+3.421400% done, reward: 5398.153223
+3.541700% done, reward: 5422.157743
+3.598000% done, reward: 5391.210069
+4.048000% done, reward: 5312.967252
+4.073500% done, reward: 5212.069078
+4.241300% done, reward: 5221.209974
+4.308100% done, reward: 5245.026696
+4.429800% done, reward: 5265.017175
+4.544600% done, reward: 5282.907742
+4.994600% done, reward: 5225.644833
+5.444600% done, reward: 5174.108214
+5.501400% done, reward: 5194.648401
+5.692800% done, reward: 5211.380101
+5.831800% done, reward: 5186.669767
+5.891300% done, reward: 5204.083980
+6.012100% done, reward: 5219.326325
+6.182300% done, reward: 5198.011101
+6.302000% done, reward: 5212.362826
+6.752000% done, reward: 5176.025313
+6.808300% done, reward: 5167.150950
+6.860600% done, reward: 5159.410249
+6.905900% done, reward: 4979.874460
+7.042500% done, reward: 4965.597902
+7.070100% done, reward: 4836.721228
+7.167500% done, reward: 4879.477544
+7.617500% done, reward: 4791.387459
+7.656400% done, reward: 4743.729367
+7.712700% done, reward: 4737.592735
+7.769000% done, reward: 4731.828020
+8.219000% done, reward: 4707.776324
+8.669000% done, reward: 4685.099011
+8.734000% done, reward: 4725.020254
+8.842100% done, reward: 4689.942293
+9.292100% done, reward: 4628.584289
+9.481300% done, reward: 4673.925664
+9.622900% done, reward: 4711.518902
+9.681800% done, reward: 4689.777147
+9.887300% done, reward: 4652.381377
+9.926900% done, reward: 4624.852299
+9.966500% done, reward: 4601.255946
+10.045300% done, reward: 4613.953260
+10.202800% done, reward: 4602.978182
+10.652800% done, reward: 4582.642632
+10.695900% done, reward: 4567.219863
+10.703100% done, reward: 4131.525862
+10.814000% done, reward: 4142.164860
+11.264000% done, reward: 4125.178544
+11.289500% done, reward: 4100.792406
+11.410600% done, reward: 4111.005964
+11.531100% done, reward: 4120.736543
+11.981100% done, reward: 4104.866533
+12.104800% done, reward: 4107.520278
+12.226700% done, reward: 4116.672204
+12.676700% done, reward: 4101.925549
+12.733000% done, reward: 4099.783467
+12.833500% done, reward: 4108.634535
+12.955200% done, reward: 4117.017633
+12.990100% done, reward: 4111.519266
+13.025000% done, reward: 4106.248921
+13.062200% done, reward: 4067.082713
+13.182400% done, reward: 4074.239924
+13.303700% done, reward: 4081.122126
+13.753700% done, reward: 4069.730090
+13.875300% done, reward: 4076.443016
+13.992800% done, reward: 4082.932366
+14.108600% done, reward: 4089.200550
+14.257800% done, reward: 4084.133204
+14.292600% done, reward: 4079.818027
+14.742600% done, reward: 4069.586929
+14.859600% done, reward: 4075.658672
+15.309600% done, reward: 4065.824697
+15.427100% done, reward: 4071.761464
+15.505700% done, reward: 4077.647777
+15.625100% done, reward: 4083.213657
+16.075100% done, reward: 4073.861210
+16.195400% done, reward: 4079.314475
+16.645400% done, reward: 4070.294441
+16.762900% done, reward: 4075.650189
+16.899300% done, reward: 4080.792915
+17.034600% done, reward: 4076.567401
+17.090900% done, reward: 4075.125789
+17.262100% done, reward: 4071.794054
+17.383600% done, reward: 4076.755800
+17.833600% done, reward: 4068.611752
+17.907600% done, reward: 4073.623541
+18.050200% done, reward: 4078.307174
+18.500200% done, reward: 4070.456469
+18.668600% done, reward: 4066.774087
+18.724900% done, reward: 4065.599052
+18.843200% done, reward: 4070.217129
+18.913400% done, reward: 4074.852990
+19.036300% done, reward: 4079.235978
+19.161200% done, reward: 4083.509451
+19.275700% done, reward: 4087.709431
+19.725700% done, reward: 4080.479695
+19.795000% done, reward: 4084.733402
+20.245000% done, reward: 4077.701797
+20.430200% done, reward: 4070.828206
+20.564000% done, reward: 4074.888287
+20.734000% done, reward: 4078.770735
+20.790400% done, reward: 4077.621660
+20.910700% done, reward: 4081.509861
+21.070900% done, reward: 4078.466026
+21.127300% done, reward: 4077.355447
+21.236700% done, reward: 4081.150262
+21.389300% done, reward: 4078.126041
+21.489800% done, reward: 4081.855673
+21.939800% done, reward: 4075.634425
+22.035400% done, reward: 4079.325214
+22.155900% done, reward: 4082.888187
+22.298900% done, reward: 4080.075151
+22.365300% done, reward: 4083.678434
+22.483800% done, reward: 4087.100991
+22.933800% done, reward: 4081.185288
+22.990100% done, reward: 4080.161619
+23.440100% done, reward: 4074.421344
+23.499600% done, reward: 4077.924356
+23.620000% done, reward: 4081.238882
+23.734800% done, reward: 4084.504508
+23.855200% done, reward: 4087.700032
+23.985200% done, reward: 4085.495797
+24.104700% done, reward: 4088.627761
+24.203600% done, reward: 4091.744837
+24.326500% done, reward: 4094.761374
+24.427000% done, reward: 4097.768861
+24.461900% done, reward: 4095.474666
+24.580600% done, reward: 4098.390860
+24.700100% done, reward: 4101.256548
+24.766500% done, reward: 4104.172715
+25.216500% done, reward: 4098.898165
+25.337400% done, reward: 4101.686586
+25.393700% done, reward: 4100.638494
+25.463000% done, reward: 4103.460423
+25.519800% done, reward: 4106.259379
+25.969800% done, reward: 4101.177576
+26.090100% done, reward: 4103.839318
+26.146900% done, reward: 4106.569714
+26.310500% done, reward: 4109.073841
+26.429800% done, reward: 4111.615170
+26.548300% done, reward: 4114.119057
+26.998300% done, reward: 4109.208702
+27.113100% done, reward: 4111.699296
+27.230600% done, reward: 4114.148157
+27.288500% done, reward: 4116.658886
+27.399800% done, reward: 4119.045356
+27.849800% done, reward: 4114.278253
+27.906100% done, reward: 4116.735994
+27.962700% done, reward: 4119.157933
+28.082800% done, reward: 4121.444440
+28.139100% done, reward: 4120.388675
+28.256900% done, reward: 4122.637987
+28.313800% done, reward: 4124.950479
+28.434100% done, reward: 4127.133014
+28.597000% done, reward: 4129.220120
+28.675800% done, reward: 4131.406640
+28.794500% done, reward: 4133.503095
+29.244500% done, reward: 4128.992616
+29.314000% done, reward: 4131.150547
+29.530300% done, reward: 4133.062151
+29.590400% done, reward: 4135.178273
+29.709100% done, reward: 4137.180952
+29.907000% done, reward: 4132.793836
+30.029800% done, reward: 4134.780001
+30.086600% done, reward: 4136.835162
+30.153100% done, reward: 4138.850264
+30.271800% done, reward: 4140.765775
+30.457000% done, reward: 4138.533621
+30.577200% done, reward: 4140.424862
+31.027200% done, reward: 4136.209408
+31.477200% done, reward: 4132.046319
+31.534000% done, reward: 4134.029552
+31.593600% done, reward: 4135.984735
+31.646000% done, reward: 4135.057781
+31.827100% done, reward: 4133.000335
+31.868900% done, reward: 4131.178532
+31.907500% done, reward: 4129.368324
+31.986400% done, reward: 4131.267500
+32.106600% done, reward: 4133.089895
+32.285500% done, reward: 4131.104537
+32.423800% done, reward: 4128.949358
+32.544100% done, reward: 4130.753315
+32.679800% done, reward: 4128.665656
+32.736100% done, reward: 4130.532213
+32.792400% done, reward: 4132.377407
+33.242400% done, reward: 4128.590900
+33.408300% done, reward: 4129.402441
+33.858300% done, reward: 4125.675193
+33.980100% done, reward: 4127.425033
+34.099700% done, reward: 4129.158178
+34.156200% done, reward: 4130.949550
+34.216300% done, reward: 4132.716872
+34.332100% done, reward: 4134.397271
+34.782100% done, reward: 4130.764418
+34.840100% done, reward: 4132.506634
+35.004900% done, reward: 4133.264485
+35.074500% done, reward: 4134.960854
+35.524500% done, reward: 4131.402297
+35.690800% done, reward: 4129.623949
+36.140800% done, reward: 4126.130939
+36.260900% done, reward: 4127.770405
+36.317200% done, reward: 4129.466606
+36.386400% done, reward: 4131.130434
+36.525700% done, reward: 4129.403233
+36.645900% done, reward: 4130.992202
+37.095900% done, reward: 4127.599140
+37.217600% done, reward: 4129.179415
+37.333900% done, reward: 4130.749788
+37.454100% done, reward: 4132.300079
+37.573500% done, reward: 4133.835673
+37.642400% done, reward: 4135.411847
+38.092400% done, reward: 4132.097690
+38.259500% done, reward: 4133.559453
+38.709500% done, reward: 4130.286868
+39.159500% done, reward: 4127.046211
+39.609500% done, reward: 4123.837016
+39.728200% done, reward: 4125.362371
+39.896400% done, reward: 4123.710293
+40.045400% done, reward: 4122.142102
+40.199000% done, reward: 4120.545032
+40.359600% done, reward: 4119.007157
+40.416000% done, reward: 4118.318707
+40.535600% done, reward: 4119.826089
+40.595100% done, reward: 4121.381767
+40.736700% done, reward: 4119.865523
+40.858200% done, reward: 4121.342776
+40.914500% done, reward: 4120.658115
+40.970800% done, reward: 4119.978865
+41.420800% done, reward: 4116.992441
+41.534400% done, reward: 4118.463925
+41.573000% done, reward: 4117.159571
+42.023000% done, reward: 4114.226205
+42.151800% done, reward: 4115.675175
+42.290000% done, reward: 4114.247021
+42.429500% done, reward: 4115.672402
+42.549600% done, reward: 4117.104220
+42.669800% done, reward: 4118.523399
+42.790200% done, reward: 4119.929933
+43.240200% done, reward: 4117.074135
+43.390000% done, reward: 4115.871818
+43.504500% done, reward: 4117.277168
+43.682700% done, reward: 4118.609412
+43.830400% done, reward: 4117.191261
+43.951900% done, reward: 4118.566331
+44.085600% done, reward: 4117.193532
+44.165100% done, reward: 4118.596464
+44.350400% done, reward: 4117.235522
+44.470500% done, reward: 4118.588604
+44.589000% done, reward: 4119.931849
+44.708700% done, reward: 4121.262837
+44.781900% done, reward: 4122.625586
+44.912300% done, reward: 4121.459948
+44.964600% done, reward: 4120.893342
+45.035200% done, reward: 4122.243242
+45.158300% done, reward: 4123.534548
+45.237000% done, reward: 4124.855442
+45.352800% done, reward: 4126.132216
+45.802800% done, reward: 4123.470200
+45.841500% done, reward: 4122.291272
+46.291500% done, reward: 4119.665916
+46.452700% done, reward: 4118.374733
+46.590200% done, reward: 4117.091916
+46.650300% done, reward: 4118.418021
+47.100300% done, reward: 4115.849258
+47.217800% done, reward: 4117.119836
+47.274200% done, reward: 4116.555975
+47.333700% done, reward: 4117.864088
+47.484300% done, reward: 4116.755735
+47.934300% done, reward: 4114.242980
+48.053700% done, reward: 4115.493699
+48.503700% done, reward: 4113.005034
+48.560100% done, reward: 4112.470877
+49.010100% done, reward: 4110.012631
+49.460100% done, reward: 4107.573008
+49.516900% done, reward: 4108.877752
+49.637200% done, reward: 4110.119677
+49.784600% done, reward: 4108.106386
+49.840900% done, reward: 4107.601051
+49.981100% done, reward: 4106.339914
+50.037500% done, reward: 4105.846269
+50.487500% done, reward: 4103.485036
+50.606900% done, reward: 4104.720148
+50.727100% done, reward: 4105.945500
+50.848600% done, reward: 4107.160913
+50.904900% done, reward: 4106.671879
+51.025400% done, reward: 4107.876658
+51.143700% done, reward: 4109.074444
+51.259100% done, reward: 4110.265991
+51.709100% done, reward: 4107.956622
+51.779300% done, reward: 4109.179483
+51.937800% done, reward: 4108.003043
+52.387800% done, reward: 4105.726267
+52.458400% done, reward: 4106.943731
+52.526200% done, reward: 4108.154833
+52.976200% done, reward: 4105.901490
+53.043900% done, reward: 4107.107864
+53.202700% done, reward: 4106.020745
+53.652700% done, reward: 4103.798285
+53.773800% done, reward: 4104.958333
+53.894100% done, reward: 4106.110994
+54.031600% done, reward: 4105.003780
+54.143800% done, reward: 4106.154535
+54.261600% done, reward: 4107.293226
+54.377800% done, reward: 4108.425362
+54.516100% done, reward: 4109.533155
+54.632400% done, reward: 4110.649961
+54.748200% done, reward: 4111.759621
+55.198200% done, reward: 4109.592482
+55.353100% done, reward: 4108.541635
+55.409500% done, reward: 4108.089067
+55.525400% done, reward: 4109.192470
+55.645700% done, reward: 4110.285272
+56.095700% done, reward: 4108.158760
+56.545700% done, reward: 4106.046239
+56.661600% done, reward: 4107.141868
+57.111600% done, reward: 4105.046477
+57.178400% done, reward: 4106.173713
+57.628400% done, reward: 4104.095071
+57.747700% done, reward: 4105.180351
+57.871300% done, reward: 4106.255583
+57.991600% done, reward: 4107.326240
+58.048000% done, reward: 4106.895886
+58.168200% done, reward: 4107.957745
+58.618200% done, reward: 4105.913141
+58.738500% done, reward: 4106.971308
+58.860200% done, reward: 4108.021774
+58.916600% done, reward: 4107.595715
+59.366600% done, reward: 4105.577968
+59.493500% done, reward: 4106.619319
+59.612800% done, reward: 4107.659387
+59.768400% done, reward: 4108.667897
+59.887000% done, reward: 4109.695643
+59.943300% done, reward: 4109.271435
+60.064700% done, reward: 4110.289037
+60.137900% done, reward: 4111.333333
+60.255400% done, reward: 4112.341043
+60.705400% done, reward: 4110.364318
+60.843200% done, reward: 4109.403161
+61.293200% done, reward: 4107.447383
+61.418800% done, reward: 4108.449182
+61.535800% done, reward: 4109.450735
+61.592100% done, reward: 4109.039050
+61.712400% done, reward: 4110.030598
+62.162400% done, reward: 4108.102219
+62.361300% done, reward: 4109.038538
+62.485200% done, reward: 4110.018853
+62.608200% done, reward: 4110.993943
+63.058200% done, reward: 4109.085536
+63.206600% done, reward: 4108.161297
+63.329500% done, reward: 4109.133297
+63.499100% done, reward: 4110.069211
+63.640700% done, reward: 4109.151036
+63.697100% done, reward: 4110.154764
+63.753400% done, reward: 4109.754842
+63.809700% done, reward: 4110.751034
+63.869800% done, reward: 4111.739043
+63.936600% done, reward: 4112.717067
+64.075500% done, reward: 4111.806296
+64.525500% done, reward: 4109.955711
+64.569600% done, reward: 4109.155330
+64.714200% done, reward: 4110.080313
+64.773700% done, reward: 4111.053781
+64.895700% done, reward: 4111.982404
+65.345700% done, reward: 4110.157460
+65.503900% done, reward: 4109.237122
+65.685000% done, reward: 4110.126084
+66.135000% done, reward: 4108.321675
+66.191700% done, reward: 4109.285448
+66.641700% done, reward: 4107.493433
+66.761900% done, reward: 4108.414954
+66.877800% done, reward: 4109.334048
+66.997900% done, reward: 4110.245470
+67.183900% done, reward: 4109.331845
+67.633900% done, reward: 4107.564318
+67.753400% done, reward: 4108.473463
+68.203400% done, reward: 4106.717940
+68.653400% done, reward: 4104.971985
+68.772800% done, reward: 4105.880823
+68.842100% done, reward: 4106.814906
+68.886300% done, reward: 4106.066534
+69.006600% done, reward: 4106.964534
+69.063000% done, reward: 4106.604564
+69.119400% done, reward: 4106.246016
+69.304700% done, reward: 4107.097696
+69.423200% done, reward: 4107.984434
+69.542800% done, reward: 4108.865805
+69.622200% done, reward: 4109.766182
+69.689100% done, reward: 4110.669187
+69.856300% done, reward: 4109.836563
+69.912900% done, reward: 4110.740639
+70.078700% done, reward: 4111.576263
+70.113600% done, reward: 4110.837446
+70.563600% done, reward: 4109.153672
+70.683100% done, reward: 4110.013694
+70.837300% done, reward: 4109.197474
+70.893700% done, reward: 4108.844284
+71.013200% done, reward: 4109.698424
+71.124200% done, reward: 4110.553044
+71.297400% done, reward: 4108.895973
+71.415900% done, reward: 4109.743994
+71.454500% done, reward: 4109.026141
+71.574000% done, reward: 4109.868951
+71.692800% done, reward: 4110.707854
+71.771700% done, reward: 4111.565017
+71.891100% done, reward: 4112.395040
+71.943400% done, reward: 4112.070721
+71.999700% done, reward: 4111.719363
+72.121200% done, reward: 4112.541584
+72.194400% done, reward: 4113.386556
+72.250900% done, reward: 4114.236623
+72.307300% done, reward: 4113.884078
+72.445100% done, reward: 4113.091094
+72.562600% done, reward: 4113.901902
+72.682900% done, reward: 4114.707170
+72.790500% done, reward: 4115.515415
+73.240500% done, reward: 4113.915506
+73.358000% done, reward: 4114.716346
+73.473300% done, reward: 4115.514419
+73.532800% done, reward: 4116.338934
+73.982800% done, reward: 4114.752625
+74.039600% done, reward: 4115.576414
+74.095900% done, reward: 4115.229569
+74.216300% done, reward: 4116.014033
+74.285500% done, reward: 4116.822191
+74.404200% done, reward: 4117.599933
+74.460500% done, reward: 4117.251332
+74.571000% done, reward: 4118.028672
+74.691100% done, reward: 4118.797176
+74.747700% done, reward: 4119.595703
+74.863500% done, reward: 4120.359091
+74.919800% done, reward: 4121.150259
+74.976200% done, reward: 4120.798651
+75.032600% done, reward: 4120.448704
+75.152000% done, reward: 4121.200992
+75.204300% done, reward: 4120.878083
+75.351800% done, reward: 4120.070827
+75.801800% done, reward: 4118.538933
+75.917700% done, reward: 4119.290496
+76.053000% done, reward: 4118.471801
+76.113900% done, reward: 4119.248461
+76.229200% done, reward: 4119.993430
+76.349500% done, reward: 4120.732377
+76.384400% done, reward: 4120.059434
+76.500700% done, reward: 4120.796886
+76.620900% done, reward: 4121.528967
+76.772800% done, reward: 4120.780287
+77.222800% done, reward: 4119.281825
+77.370200% done, reward: 4118.542344
+77.820200% done, reward: 4117.055806
+77.890700% done, reward: 4117.813146
+77.929300% done, reward: 4117.158600
+77.997100% done, reward: 4117.913664
+78.447100% done, reward: 4116.441967
+78.568800% done, reward: 4117.168279
+79.018800% done, reward: 4115.704872
+79.153000% done, reward: 4114.987527
+79.187900% done, reward: 4114.349785
+79.248000% done, reward: 4115.104825
+79.698000% done, reward: 4113.659051
+80.148000% done, reward: 4112.219702
+80.598000% done, reward: 4110.786737
+80.678300% done, reward: 4111.533047
+81.128300% done, reward: 4110.107923
+81.268500% done, reward: 4110.823121
+81.414500% done, reward: 4110.061063
+81.584400% done, reward: 4110.758753
+81.642300% done, reward: 4111.507851
+82.092300% done, reward: 4110.098341
+82.224600% done, reward: 4109.511070
+82.364900% done, reward: 4108.829640
+82.483400% done, reward: 4109.547200
+82.603700% done, reward: 4110.260774
+82.810500% done, reward: 4110.929774
+82.866900% done, reward: 4110.632223
+83.003300% done, reward: 4109.937962
+83.453300% done, reward: 4108.556019
+83.523900% done, reward: 4109.287750
+83.640200% done, reward: 4109.994654
+83.710400% done, reward: 4110.720374
+83.829900% done, reward: 4111.419686
+83.927400% done, reward: 4112.126431
+84.065000% done, reward: 4111.456181
+84.246100% done, reward: 4112.120596
+84.302400% done, reward: 4111.826210
+84.375600% done, reward: 4112.537493
+84.498800% done, reward: 4113.222444
+84.619800% done, reward: 4113.905560
+84.676100% done, reward: 4113.610102
+85.126100% done, reward: 4112.257998
+85.241900% done, reward: 4112.941249
+85.357700% done, reward: 4113.621672
+85.807700% done, reward: 4112.277959
+85.962600% done, reward: 4111.623053
+86.073600% done, reward: 4112.304174
+86.125900% done, reward: 4112.039556
+86.195200% done, reward: 4112.736084
+86.351500% done, reward: 4112.068866
+86.517900% done, reward: 4111.419932
+86.668300% done, reward: 4110.709251
+86.784100% done, reward: 4111.381720
+86.900000% done, reward: 4112.051438
+87.053100% done, reward: 4112.701620
+87.174700% done, reward: 4113.363375
+87.245900% done, reward: 4114.045100
+87.366100% done, reward: 4114.702072
+87.485600% done, reward: 4115.356698
+87.549400% done, reward: 4116.033595
+87.667900% done, reward: 4116.683376
+87.783800% done, reward: 4117.331721
+87.913100% done, reward: 4117.971495
+88.031600% done, reward: 4118.613517
+88.155000% done, reward: 4118.719239
+88.276600% done, reward: 4119.355840
+88.396800% done, reward: 4119.990555
+88.846800% done, reward: 4118.695430
+88.965500% done, reward: 4119.329578
+89.033400% done, reward: 4119.983491
+89.148000% done, reward: 4120.614422
+89.318000% done, reward: 4119.975846
+89.374400% done, reward: 4119.687767
+89.448600% done, reward: 4120.333131
+89.564400% done, reward: 4120.957908
+90.014400% done, reward: 4119.681094
+90.093800% done, reward: 4120.320445
+90.215600% done, reward: 4120.939018
+90.313200% done, reward: 4121.565648
+90.435000% done, reward: 4122.179441
+90.491400% done, reward: 4121.891008
+90.606000% done, reward: 4122.504892
+90.721900% done, reward: 4123.115869
+90.878100% done, reward: 4122.471178
+90.991300% done, reward: 4123.080997
+91.122000% done, reward: 4123.681080
+91.243600% done, reward: 4124.282700
+91.402500% done, reward: 4123.624256
+91.518400% done, reward: 4124.226136
+91.668000% done, reward: 4123.687655
+91.846900% done, reward: 4123.065877
+92.296900% done, reward: 4121.823697
+92.746900% done, reward: 4120.586203
+92.904100% done, reward: 4119.973601
+93.022600% done, reward: 4120.574448
+93.472600% done, reward: 4119.346264
+93.591700% done, reward: 4119.945807
+93.712000% done, reward: 4120.542579
+93.827900% done, reward: 4121.138979
+93.943800% done, reward: 4121.733159
+94.108700% done, reward: 4121.127806
+94.262000% done, reward: 4120.527163
+94.712000% done, reward: 4119.314987
+95.162000% done, reward: 4118.107293
+95.226000% done, reward: 4118.722843
+95.347700% done, reward: 4119.312512
+95.467900% done, reward: 4119.900616
+95.917900% done, reward: 4118.700711
+96.038000% done, reward: 4119.287832
+96.203400% done, reward: 4118.093434
+96.323900% done, reward: 4118.679358
+96.380200% done, reward: 4118.414106
+96.496000% done, reward: 4118.999205
+96.566200% done, reward: 4119.600572
+96.685900% done, reward: 4119.816421
+96.832400% done, reward: 4119.173320
+96.891900% done, reward: 4119.775438
+96.937700% done, reward: 4119.510907
+96.994500% done, reward: 4120.111311
+97.101300% done, reward: 4120.689611
+97.221500% done, reward: 4121.260492
+97.338900% done, reward: 4121.830453
+97.505600% done, reward: 4122.378815
+97.625800% done, reward: 4122.943632
+98.075800% done, reward: 4121.774608
+98.196300% done, reward: 4122.338383
+98.646300% done, reward: 4121.174578
+98.766500% done, reward: 4121.737547
+99.216500% done, reward: 4120.578916
+99.333500% done, reward: 4121.142204
+99.783500% done, reward: 4119.988700
+99.849900% done, reward: 4120.570807
+99.920000% done, reward: 4121.149420
+<class 'gym_remote.exceptions.TimestepTimeoutError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+<class 'BrokenPipeError'>
+100.037800% done, reward: 4120.380228

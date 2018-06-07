@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/root/venv/bin/retro-contest-remote", line 9, in <module>
+    load_entry_point('retro-contest-support==0.1.0', 'console_scripts', 'retro-contest-remote')()
+  File "/root/venv/lib/python3.5/site-packages/retro_contest/remote.py", line 98, in main
+    args.func(args)
+  File "/root/venv/lib/python3.5/site-packages/retro_contest/remote.py", line 41, in run_args
+    daemonize=args.daemonize)
+  File "/root/venv/lib/python3.5/site-packages/retro_contest/remote.py", line 31, in run
+    env.serve(timestep_limit=timestep_limit, wallclock_limit=wallclock_limit, ignore_reset=True)
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/server.py", line 42, in serve
+    self.bridge.recv()
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 320, in recv
+    message = self._recv_message()
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 298, in _recv_message
+    message = self.connection.recv(4096)
+ConnectionResetError: [Errno 104] Connection reset by peer

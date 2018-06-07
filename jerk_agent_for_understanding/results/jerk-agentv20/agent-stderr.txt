@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 272, in _try_send
+    self._send_message(type, content)
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 284, in _send_message
+    raise self.Closed
+BrokenPipeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/compo/jerk_agent.py", line 167, in <module>
+    main()
+  File "/root/compo/jerk_agent.py", line 48, in main
+    new_rew = exploit(env, best_pair[1])
+  File "/root/compo/jerk_agent.py", line 99, in exploit
+    env.reset()
+  File "/root/compo/jerk_agent.py", line 154, in reset
+    return self.env.reset(**kwargs)
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/client.py", line 41, in reset
+    self.bridge.send()
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 317, in send
+    self._try_send('update', content)
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 280, in _try_send
+    raise e
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 276, in _try_send
+    self.recv()
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 320, in recv
+    message = self._recv_message()
+  File "/root/venv/lib/python3.5/site-packages/gym_remote/bridge.py", line 295, in _recv_message
+    raise self.Closed
+BrokenPipeError

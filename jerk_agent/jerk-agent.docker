@@ -1,0 +1,5 @@
+FROM openai/retro-agent
+
+ADD jerk_agent-contest.py .
+
+CMD ["python", "-u", "/root/compo/jerk_agent-contest.py"]
