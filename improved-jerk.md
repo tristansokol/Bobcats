@@ -4,11 +4,15 @@ The Jerk agent was a provided baseline for the [OpenAI Retro Contest](https://co
 
 ## Background
 
-The improved JERK agent is an AI agent for reinforcement learning that uses a combination of random exploration and episode exploitation to build a successful solution to the environment.
+The improved JERK agent is an AI agent for reinforcement learning that uses a combination of random exploration and episode exploitation to solve and optimise solutions to episode. Initially the agent explores the environment somewhat randomly until an episode ends, then with a previous solution stored, continues to explore as well as repeat the best existing solution.
 
-At the start of each episode, there is first a check
+Here are definitions of some of the terms that I'll be using in case you are not familar: 
 
-Diagram of flowchart describing
+* **Episode** a set of timesteps, actions, and rewards that defines a discreet engagement of the agent with the environment. For this code, an episode is a level of Sonic the Hedgehog gameplay, it starts when the level begins, and ends whenever Sonic dies, reaches the end, or runs out of time.
+
+* **Action** This is a an input the agent applies to the evironment. With our Sega Genesis version of Sonic, these correspond to a button press of the 12 buttoned Genesis controller. In our code they are represented by an array of 12 booleans `[False False False False False False False False False False False False]` corresponding to `[B, A, MODE, START, UP, DOWN, LEFT, RIGHT, C, Y, X, Z]`
+
+TODO Diagram of flowchart describing
 
 start a new episode
  - if exploit & solutions
@@ -18,7 +22,61 @@ else start a new run
 
 Lets take a look at each of those parts
 
+### Moving
+```python
+move(env, num_steps, left, jump_prob, jump_repeat)
+```
 
+When the agent begins, it starts by taking a fresh episode and exploring it with the `move()` function. This function first sets up some variables to store the in-process responses from the environment before it starts interacting with the environment passed in with `env`:
+
+```python
+total_rew = 0.0 # the reward from all actions in this call of move
+done = False # whether or not the episode has finished
+steps_taken = 0 # a counter for the number of actions taken
+jumping_steps_left = 0
+```
+Then it enters a loop that iterates through for the total number of num_steps that move() was called with.
+
+The first thing that happens inside that loop is the creation of an an empty boolean array that will hold the value of the action to take. To play sonic, you generally win by moving to the right to find the end of the level. We take advantage of this by designing the move function to always move the right, (or left in the case of back tracking that we will get to later). In the code this is achieved by assigning the 6th and 7th entries of our action array based on whether `move()` was called with the parameter `Left` being true. That means for this agent, every move is either going left or right, no standing still or just vertical jumping.
+
+ After that there is some logic to control jumping. There are two variables that control jumping behavior, the `jump_prob` and `jump_repeat`. `jump_prob` is the probability that for a given step, action[0] (the B button) will be set to true which will execute a jump in the game. For the default agent, the move() function is called in groups of 100 steps, so roughly 10 of them will include jumping, if it were not for `jump_repeat`. `jump_repeat` limits the number of times that you can have a jump inside the move() function, with a default of four, so if you are doing 100 steps, you will only have four jumps within those steps.
+
+With our actions in place ( move right or left, possibly jump as well) we can apply our button presses to the environment.
+
+`_, rew, done, _ = env.step(action)`
+The env.step function (as documented [here](https://github.com/openai/retro/blob/master/retro/retro_env.py#L145)) takes the array of actions that would be the moves for our controller and returns four variables, two of which we will use:
+
+`rew` this is the incremental reward achieved from executing this command. The reward in our environment is determined how far from left to right the agent has controlled Sonic to go. 
+`done` is a boolean value just describing if the game is over, either through sonic dying, timing out or getting to the end.
+
+The reward (`rew`) gets added to a total_rew which stores the total amount of reward for that invocation of the `move()` function. After all of the actions/steps have been made or if the episode finished, the total reward and the done boolean are then returned by the move function.
+
+If the total reward from `move()`-ing is less than or equal to zero, such as this scenario:
+
+TODO, add the gif of no backtracking 
+
+then we enter a code branch for _backtracking_.
+
+### Backtracking
+
+Backtracking is just how it sounds, moving backwards. If the agent isn't getting any reward from moving to the right, then Sonic is probably stuck, and moving back to the left might help. This is achieved by just calling `move()` again, but with the Left parameter set to true, so that Sonic will move to the left. This is an essential aspect of the agent, since only going to the right can get Sonic stuck on plenty of walls.
+
+So basically, if you don’t make progress going to the right for 100 moves, try going to the left for 70.
+
+### Learning
+
+If the episode finished during that call to move(), or the backtracking then the main while loop will begin a new episode and restart the environment. Then there is a choice to make, whether to randomly explore the environment again in a new episode, or to instead exploit (which we'll cover later). This choice is decieded by this line of code:
+
+```python
+ if (solutions and random.random() < EXPLOIT_BIAS + env.total_steps_ever / TOTAL_TIMESTEPS + best_run/10000):
+```
+
+which checks for truthyness of `solutions` which is a list of the key presses used to finish an episode and get a reward, and also compares a random number to the sum of `EXPLOIT_BIAS`, the % of time that has passed, and how close the best score is to the maximum score of 10,000. `EXPLOIT_BIAS` is a hyperparameter that is set at the beginning of the code and for the purposes of the contest, seems to have had a sweet spot right around `0.12`
+
+![A scatter plot of exploit biases and contest scores.](img/graph.png "A scatter plot of exploit biases and contest scores.")
+
+
+TODOTODOTODO
 
 
 ...
@@ -38,38 +96,10 @@ and three functions to interact with this new TrackedEnv that I will get into la
 
 Next we enter an infinite loop, and because new_ep is true, the environment is immediately reset and the new_ep variable set to False. The very next line is rew, new_ep = move(env, 100) where we actually start playing some Sonic.
 
-Move(env, num_steps, left, jump_prob, jump_repeat)
-Move is where all of the actual action occurs. It first sets up some new variables to use later:
 
-total_rew = 0.0
-done = False
-steps_taken = 0
-jumping_steps_left = 0
-Then it enters a loop that iterates through for the total number of num_steps that move() was called with.
-
-The first thing that happens inside that loop is the creation of an array, action that is initially 12 falses, like this:
-
-[False False False False False False False False False False False False]
-Next, it takes the the 6th and 7th entries and assign them depending on whether move() was called with false being true. These two actions must be the left and right buttons on the D-pad, which is interesting. If Sonic is always moving to the right or left, are there obstacles that are impassable because they require only vertical movement? After that there is some logic around jumping. There are two variables that control jumping behavior, the jump_prob and jump_repeat . jump_prob is the probability that for a given step, action[0] will be true which will execute a jump in the game. For the default agent, the move() function is called in groups of 100 steps, so roughly 10 of them will include jumping, if it were not for jump_repeat. jump_repeat limits the number of times that you can have a jump inside the move() function, with a default of four, so if you are doing 100 steps, you will likely only have four jumps within those steps.
-
-With our actions in place (either move left, move right, jump to the right, jump to the left) we can apply our button presses to the environment.
-
-_, rew, done, _ = env.step(action)
-The env.step function (as documented here) takes the array of actions that would be the moves for our controller and returns four variables:
-
-ob I believe this is an array of the raw RGB values from the screen, totally not used for the jerk agent, so it is set to the python idiom _
-rew this is the incremental reward achieved from executing this command.
-done is a boolean value just describing if the game is over, either through sonic dying or getting to the end.
-info here is an array of all the the relevant game information that the gym environment is pulling from the emulators memory. It has a ton of useful info such as the x & y position of Sonic, the number of rings & lives, etc. The baseline jerk agent does not use any of that, so it is also wasted away in _. For the third level of the first zone of Sonic, it looks like this:
-{'act': 2, 'screen_x': 857, 'zone': 0, 'level_end_bonus': 0, 'score': 0, 'lives': 3, 'screen_x_end': 10592, 'rings': 2, 'x': 1017, 'y': 812}
-The only variables that we need for the jerk agent are rew and done , rew gets added to a total_rew for total_reward, which stores the reward gained in that call to move(). That total reward and the done boolean are the returned values of the of the move function. If the episode finished during that call to move() then the main while loop will begin a new episode and restart the environment.
 
 Backtracking
-If the move function does make any positive impact into the reward, then the agent “backtracks” which is what is sounds like, moving backwards. This is achieved by just calling move() again, but with the Left parameter set to true, so that Sonic will move to the left. This is an essential aspect of the agent, since only going to the right can get Sonic stuck on plenty of walls.
 
-
-Life without backtracking
-So basically, if you don’t make progress going to the right for 100 moves, try going to the left for about 70 steps.
 
 The Learning part of Machine Learning
 Now that we have gone through how to get Sonic through the environment, let’s take a look at how our agent learns. At the end of the episode, the maximum total cumulative reward (the largest in a running total of all the rewards achieved) in the run along with an array of all of the moves that were made (that is, a long list of 1x12 arrays that are mostly filled with false values), are stored in the solutions array. The array of all the moves is created by the TrackedEnv’s best_sequence method, which returns all the moves made up until the maximum total reward wash achieved. For reference, a run that didn’t go well for me looked like this:
