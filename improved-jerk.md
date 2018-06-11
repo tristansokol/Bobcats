@@ -10,7 +10,7 @@ Here are definitions of some of the terms that I'll be using in case you are not
 
 * **Episode** a set of timesteps, actions, and rewards that defines a discreet engagement of the agent with the environment. For this code, an episode is a level of Sonic the Hedgehog gameplay, it starts when the level begins, and ends whenever Sonic dies, reaches the end, or runs out of time.
 
-* **Action** This is a an input the agent applies to the evironment. With our Sega Genesis version of Sonic, these correspond to a button press of the 12 buttoned Genesis controller. In our code they are represented by an array of 12 booleans `[False False False False False False False False False False False False]` corresponding to `[B, A, MODE, START, UP, DOWN, LEFT, RIGHT, C, Y, X, Z]`
+* **Action** This is an input the agent applies to the evironment. With our Sega Genesis version of Sonic, these correspond to a button press of the 12 buttoned Genesis controller. In our code they are represented by an array of 12 booleans `[False False False False False False False False False False False False]` corresponding to `[B, A, MODE, START, UP, DOWN, LEFT, RIGHT, C, Y, X, Z]`
 
 * **Environment** This is the world of Sonic The Hedghog in the OpenAI Gym Retro environment. In this code the  environment is also wrapped into a larger class of a TrackedEnv, whichs take the initial environment and adds additional properties that will be used for learning  and three functions to interact with this new TrackedEnv that I will get into later. There are also a couple of variables set that will be used later on when the action gets going: new_ep which defines whether or not we should start a new episode, and solutions which will store a list of successful action sequences and their total reward.
 
@@ -46,11 +46,11 @@ jumping_steps_left = 0
 ```
 Then it enters a loop that iterates through for the total number of num_steps that move() was called with.
 
-The first thing that happens inside that loop is the creation of an an empty boolean array that will hold the value of the action to take. To play sonic, you generally win by moving to the right to find the end of the level. We take advantage of this by designing the move function to always move the right, (or left in the case of back tracking that we will get to later). In the code this is achieved by assigning the 6th and 7th entries of our action array based on whether `move()` was called with the parameter `Left` being true. That means for this agent, every move is either going left or right, no standing still or just vertical jumping.
+The first thing that happens inside that loop is the creation of an an empty boolean array that will hold the value of the action to take. To play Sonic, you generally win by moving to the right to find the end of the level. We take advantage of this by designing the move function to always move the right, (or left in the case of back tracking that we will get to later). In the code this is achieved by assigning the 6th and 7th entries of our action array based on whether `move()` was called with the parameter `Left` being true. That means for this agent, every move is either going left or right, no standing still or just vertical jumping.
 
 After that there is some logic to control jumping. There are two variables that control jumping behavior, the `jump_prob` and `jump_repeat`. `jump_prob` is the probability that for a given step, action[0] (the B button) will be set to true which will execute a jump in the game. For the default agent, the move() function is called in groups of 100 steps, so roughly 10 of them will include jumping, if it were not for `jump_repeat`. `jump_repeat` limits the number of times that you can have a jump inside the move() function, with a default of four, so if you are doing 100 steps, you will only have four jumps within those steps.
 
-With our actions in place ( move right or left, possibly jump as well) we can apply our button presses to the environment.
+With our actions in place (move right or left, possibly jump as well) we can apply our button presses to the environment.
 
 `_, rew, done, _ = env.step(action)`
 The env.step function (as documented [here](https://github.com/openai/retro/blob/master/retro/retro_env.py#L145)) takes the array of actions that would be the moves for our controller and returns four variables, two of which we will use:
@@ -93,7 +93,7 @@ If the total reward from `move()`-ing is less than or equal to zero, such as thi
 
 ![A gif of sonic running into a wall](img/backtracking.gif "A gif of sonic running into a wall")
 
-then we enter a code branch for _backtracking_.
+Then we enter a code branch for _backtracking_.
 
 ### Backtracking
 
@@ -103,13 +103,13 @@ So basically, if you don’t make progress going to the right for 100 moves, try
 
 ### Learning
 
-If the episode finished during that call to move(), or the backtracking then the main while loop will begin a new episode and restart the environment. Then there is a choice to make, whether to randomly explore the environment again in a new episode, or to instead exploit (which we'll cover later). This choice is decieded by this line of code:
+If the episode finished during that call to move(), or the backtracking then the main while loop will begin a new episode and restart the environment. Then there is a choice to make, whether to randomly explore the environment again in a new episode, or to instead exploit (which we'll cover later). This choice is decided by this line of code:
 
 ```python
  if (solutions and random.random() < EXPLOIT_BIAS + env.total_steps_ever / TOTAL_TIMESTEPS + best_run/10000):
 ```
 
-which checks for truthyness of `solutions` which is a list of the key presses used to finish an episode and get a reward, and also compares a random number to the sum of `EXPLOIT_BIAS`, the % of time that has passed, and how close the best score is to the maximum score of 10,000. `EXPLOIT_BIAS` is a hyperparameter that is set at the beginning of the code and for the purposes of the contest, seems to have had a sweet spot right around `0.12`
+Which checks for truthiness of `solutions` which is a list of the key presses used to finish an episode and get a reward, and also compares a random number to the sum of `EXPLOIT_BIAS`, the % of time that has passed, and how close the best score is to the maximum score of 10,000. `EXPLOIT_BIAS` is a hyperparameter that is set at the beginning of the code and for the purposes of the contest, seems to have had a sweet spot right around `0.12`
 
 ![A scatter plot of exploit biases and contest scores.](img/graph.png "A scatter plot of exploit biases and contest scores.")
 
@@ -117,7 +117,7 @@ Of the other factors `env.total_steps_ever / TOTAL_TIMESTEPS` looks at how many 
 
 ### Exploitation
 
-Let's take a look at what happens when we enter the "exploitation" code branch. At the end of every episode, the maximum total cumulative reward (the largest in a running total of all the rewards achieved) acheived in an episode along with an array of all of the moves that were made (that is, a long list of 1x12 arrays that are mostly filled with false values), are stored in the solutions array. The array of all the moves is created by the `TrackedEnv` class’s `best_sequence` method, which returns all the moves made up until the maximum total reward wash achieved. A run that didn’t go well for me looked like this:
+Let's take a look at what happens when we enter the "exploitation" code branch. At the end of every episode, the maximum total cumulative reward (the largest in a running total of all the rewards achieved) achieved in an episode along with an array of all of the moves that were made (that is, a long list of 1x12 arrays that are mostly filled with false values), are stored in the solutions array. The array of all the moves is created by the `TrackedEnv` class’s `best_sequence` method, which returns all the moves made up until the maximum total reward wash achieved. A run that didn’t go well for me looked like this:
 ```python
 [(
   [1903800.0], # The sum of all the rewards
@@ -153,4 +153,4 @@ def exploit(env, sequence):
 
 ### Conclusion
 
-Those are the main aspects of the JERK agent, and the complete code can be seen here: [tristansokol/Bobcats : jerk_agent_for_understanding/jerk_agent.py](https://github.com/tristansokol/Bobcats/blob/master/jerk_agent_for_understanding/jerk_agent.py). There is never enough time, but a possible expansions that I think could be interesting next steps for this agent is experimenting with using a neural net to make the decision of backtracking, instead of the exploit bias and other parameters. This could potentially allow for more complex strategies to emerge (such as dynamic levels of backtracking) with a fairly simple mechanic. 
+Those are the main aspects of the JERK agent, and the complete code can be seen here: [tristansokol/Bobcats : jerk_agent_for_understanding/jerk_agent.py](https://github.com/tristansokol/Bobcats/blob/master/jerk_agent_for_understanding/jerk_agent.py). There is never enough time, but possible expansions that I think could be interesting next steps for this agent is experimenting with using a neural net to make the decision of backtracking, instead of the exploit bias and other parameters. This could potentially allow for more complex strategies to emerge (such as dynamic levels of backtracking) with a fairly simple mechanic. 
