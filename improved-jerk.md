@@ -1,18 +1,18 @@
 # The Improved Jerk Agent
 
-The Jerk agent was a provided baseline for the [OpenAI Retro Contest](https://contest.openai.com/), you can find the original code in [openai/retro-baselines](https://github.com/openai/retro-baselines/blob/master/agents/jerk_agent.py). Throughout the contest I was able to make some useful improvements to the baseline agent, ultimately falling short of winning the contest, but ended up in the top 30 of the 200+ contestants. That is a pretty good result for ~150 lines of code! This is an explanation of how the improved-jerk agent works including my improvements. If you are interested in a description of how the providede baseline agent works, you can read [A Deep Dive into the JERK Agent](https://medium.com/@tristansokol/a-deep-dive-into-the-jerk-agent-3c553dbab442) or if you are only concerned with the improvements, I'd suggest [My Final Submisson: The Improved JERK](https://medium.com/@tristansokol/my-final-submission-the-improved-jerk-724bb54555ee).
+The Jerk agent was a provided baseline for the [OpenAI Retro Contest](https://contest.openai.com/), you can find the original code in [openai/retro-baselines](https://github.com/openai/retro-baselines/blob/master/agents/jerk_agent.py). Throughout the contest I was able to make some useful improvements to the baseline agent, ultimately falling short of winning the contest, but ended up in the top 30 of the 200+ contestants. That is a pretty good result for ~150 lines of code! This is an explanation of how the improved-jerk agent works including my improvements. If you are interested in a description of how the provided baseline agent works, you can read [A Deep Dive into the JERK Agent](https://medium.com/@tristansokol/a-deep-dive-into-the-jerk-agent-3c553dbab442) or if you are only concerned with the improvements, I'd suggest [My Final Submission: The Improved JERK](https://medium.com/@tristansokol/my-final-submission-the-improved-jerk-724bb54555ee).
 
 ## Background
 
 The improved JERK agent is an AI agent for reinforcement learning that uses a combination of random exploration and episode exploitation to solve and optimise solutions to episodes for Sonic the Hedgehog. Initially the agent explores the environment somewhat randomly until the episode ends. With a previous solution stored, the agent continues to explore as well as repeat the best existing solution (exploit) until the training is over.
 
-Here are definitions of some of the terms that I'll be using in case you are not familiar: 
+Here are definitions of some of the terms that I'll be using in case you are not familiar:
 
 * **Episode** a set of timesteps, actions, and rewards that defines a discreet engagement of the agent with the environment. For this code, an episode is a level of Sonic the Hedgehog gameplay, it starts when the level begins, and ends whenever Sonic dies, reaches the end, or runs out of time.
 
-* **Action** This is an input the agent applies to the evironment. With our Sega Genesis version of Sonic, these correspond to a button press of the 12 buttoned Genesis controller. In our code they are represented by an array of 12 booleans `[False False False False False False False False False False False False]` corresponding to `[B, A, MODE, START, UP, DOWN, LEFT, RIGHT, C, Y, X, Z]`
+* **Action** This is an input the agent applies to the environment. With our Sega Genesis version of Sonic, these correspond to a button press of the 12 buttoned Genesis controller. In our code they are represented by an array of 12 booleans `[False False False False False False False False False False False False]` corresponding to `[B, A, MODE, START, UP, DOWN, LEFT, RIGHT, C, Y, X, Z]`
 
-* **Environment** This is the world of Sonic The Hedghog in the OpenAI Gym Retro environment. In this code the  environment is also wrapped into a larger class of a TrackedEnv, whichs take the initial environment and adds additional properties that will be used for learning  and three functions to interact with this new TrackedEnv that I will get into later. There are also a couple of variables set that will be used later on when the action gets going: new_ep which defines whether or not we should start a new episode, and solutions which will store a list of successful action sequences and their total reward.
+* **Environment** This is the world of Sonic The Hedgehog in the OpenAI Gym Retro environment. In this code the  environment is also wrapped into a larger class of a TrackedEnv, which takes the initial environment and adds additional properties that will be used for learning  and three functions to interact with this new TrackedEnv that I will get into later. There are also a couple of variables set that will be used later on when the action gets going: new_ep which defines whether or not we should start a new episode, and solutions which will store a list of successful action sequences and their total reward.
 
 ```python
 self.action_history = []
@@ -21,8 +21,7 @@ self.total_reward = 0
 self.total_steps_ever = 0
 ```
 
-
-* **sticky frameskip** From [contest.openai.com/details](https://contest.openai.com/details): 
+* **sticky frameskip** From [contest.openai.com/details](https://contest.openai.com/details):
 > The environment is stochastic in that it has sticky frameskip. While normal frameskip always repeats an action n times, sticky frameskip occasionally repeats an action n+1 times. When this happens, the following action is repeated one fewer times, since it is delayed by an extra frame. For the contest, sticky frameskip repeats an action an extra time with probability 0.25.
 
 ## The Agent
@@ -32,6 +31,7 @@ self.total_steps_ever = 0
 Lets take a look at each of those parts
 
 ### Moving
+
 ```python
 move(env, num_steps, left, jump_prob, jump_repeat)
 ```
@@ -44,6 +44,7 @@ done = False # whether or not the episode has finished
 steps_taken = 0 # a counter for the number of actions taken
 jumping_steps_left = 0
 ```
+
 Then it enters a loop that iterates through for the total number of num_steps that move() was called with.
 
 The first thing that happens inside that loop is the creation of an an empty boolean array that will hold the value of the action to take. To play Sonic, you generally win by moving to the right to find the end of the level. We take advantage of this by designing the move function to always move the right, (or left in the case of back tracking that we will get to later). In the code this is achieved by assigning the 6th and 7th entries of our action array based on whether `move()` was called with the parameter `Left` being true. That means for this agent, every move is either going left or right, no standing still or just vertical jumping.
@@ -55,8 +56,8 @@ With our actions in place (move right or left, possibly jump as well) we can app
 `_, rew, done, _ = env.step(action)`
 The env.step function (as documented [here](https://github.com/openai/retro/blob/master/retro/retro_env.py#L145)) takes the array of actions that would be the moves for our controller and returns four variables, two of which we will use:
 
-`rew` this is the incremental reward achieved from executing this command. The reward in our environment is determined how far from left to right the agent has controlled Sonic to go. 
-`done` is a boolean value just describing if the game is over, either through sonic dying, timing out or getting to the end. 
+`rew` this is the incremental reward achieved from executing this command. The reward in our environment is determined how far from left to right the agent has controlled Sonic to go.
+`done` is a boolean value just describing if the game is over, either through sonic dying, timing out or getting to the end.
 
 The complete move functions looks like this:
 
@@ -118,6 +119,7 @@ Of the other factors `env.total_steps_ever / TOTAL_TIMESTEPS` looks at how many 
 ### Exploitation
 
 Let's take a look at what happens when we enter the "exploitation" code branch. At the end of every episode, the maximum total cumulative reward (the largest in a running total of all the rewards achieved) achieved in an episode along with an array of all of the moves that were made (that is, a long list of 1x12 arrays that are mostly filled with false values), are stored in the solutions array. The array of all the moves is created by the `TrackedEnv` class’s `best_sequence` method, which returns all the moves made up until the maximum total reward wash achieved. A run that didn’t go well for me looked like this:
+
 ```python
 [(
   [1903800.0], # The sum of all the rewards
@@ -153,4 +155,4 @@ def exploit(env, sequence):
 
 ### Conclusion
 
-Those are the main aspects of the JERK agent, and the complete code can be seen here: [tristansokol/Bobcats : jerk_agent_for_understanding/jerk_agent.py](https://github.com/tristansokol/Bobcats/blob/master/jerk_agent_for_understanding/jerk_agent.py). There is never enough time, but possible expansions that I think could be interesting next steps for this agent is experimenting with using a neural net to make the decision of backtracking, instead of the exploit bias and other parameters. This could potentially allow for more complex strategies to emerge (such as dynamic levels of backtracking) with a fairly simple mechanic. 
+Those are the main aspects of the JERK agent, and the complete code can be seen here: [tristansokol/Bobcats : jerk_agent_for_understanding/jerk_agent.py](https://github.com/tristansokol/Bobcats/blob/master/jerk_agent_for_understanding/jerk_agent.py). There is never enough time, but possible expansions that I think could be interesting next steps for this agent is experimenting with using a neural net to make the decision of backtracking, instead of the exploit bias and other parameters. This could potentially allow for more complex strategies to emerge (such as dynamic levels of backtracking) with a fairly simple mechanic.
